@@ -1,0 +1,11 @@
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.deps.json
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\ref\BlazorFullStackCrud.Shared.dll
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfo.cs
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrud.Shared.dll
+C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
