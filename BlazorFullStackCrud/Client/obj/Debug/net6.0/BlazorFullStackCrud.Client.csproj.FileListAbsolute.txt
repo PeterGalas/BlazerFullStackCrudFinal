@@ -821,3 +821,12 @@ C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Client\obj\D
 C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.dll
 C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\ref\BlazorFullStackCrud.Client.dll
 C:\Users\peter\source\repos\BlazorFullstackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.pdb
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.dll
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\ref\BlazorFullStackCrud.Client.dll
+C:\Users\peter\OneDrive\Documents\GitHub\BlazerFullStackCrud\BlazorFullStackCrud\Client\obj\Debug\net6.0\BlazorFullStackCrud.Client.pdb

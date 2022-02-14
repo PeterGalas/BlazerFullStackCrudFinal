@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "QQ+6wHmBIhlSUcdDlhf59dk1AiWCdsV5GbrSsGQIP7M=",
+  "Hash": "H1+HlAtYJQdrVVVMNJhtWLUaBMWrKPdROMyGgnQqAdY=",
   "Source": "BlazorFullStackCrud.Server",
   "BasePath": "_content/BlazorFullStackCrud.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
+      "Identity": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
       "Version": 2,
       "Source": "BlazorFullStackCrud.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",

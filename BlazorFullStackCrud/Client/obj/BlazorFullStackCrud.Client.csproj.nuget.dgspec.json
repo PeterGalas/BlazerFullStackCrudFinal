@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {}
+    "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {
+    "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
+        "projectUniqueName": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
         "projectName": "BlazorFullStackCrud.Client",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
+        "projectPath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Client\\obj\\",
+        "outputPath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
-                "projectPath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj"
+              "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
+                "projectPath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
+    "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
         "projectName": "BlazorFullStackCrud.Shared",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
+        "projectPath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

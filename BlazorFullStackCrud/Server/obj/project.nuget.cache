@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGxDUDyj8xk5EL5825ZtxdBvb+iWJcudTRhv1rtrOMJZob81+mSOPcRwOsXxmu2U6TKc0G237ywjnzBBTCU5BA==",
+  "dgSpecHash": "7GhwP9awCEQq+u6e+mfngNWPCajzJf2Vto8d8j1D1nJsDlwS90BM53I2/V95J74lC86wz1ccBVpdxmRqcjvOqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\BlazorFullstackCrud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
+  "projectFilePath": "C:\\Users\\peter\\OneDrive\\Documents\\GitHub\\BlazerFullStackCrud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.2\\microsoft.aspnetcore.components.6.0.2.nupkg.sha512",
