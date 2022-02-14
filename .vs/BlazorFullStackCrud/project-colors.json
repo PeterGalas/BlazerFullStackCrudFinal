@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd6beb52-1339-40f2-a166-95261b3a3b3f": {
+      "ProjectGuid": "fd6beb52-1339-40f2-a166-95261b3a3b3f",
+      "DisplayName": "BlazorFullStackCrud.Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
