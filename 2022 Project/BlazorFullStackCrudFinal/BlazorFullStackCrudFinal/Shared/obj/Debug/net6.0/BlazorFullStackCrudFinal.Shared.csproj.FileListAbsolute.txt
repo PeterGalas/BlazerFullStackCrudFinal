@@ -1,0 +1,35 @@
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.deps.json
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfo.cs
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\refint\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.deps.json
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\ref\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\USER\OneDrive\Desktop\New folder\BlazerFullStackCrudFinal\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.deps.json
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\bin\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\refint\BlazorFullStackCrudFinal.Shared.dll
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\BlazorFullStackCrudFinal.Shared.pdb
+C:\Users\peter\OneDrive\Desktop\2022 Project\test\BlazorFullStackCrudFinal\BlazorFullStackCrudFinal\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrudFinal.Shared.dll
